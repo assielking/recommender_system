@@ -11,3 +11,5 @@ Ce projet est une application de système de recommandation utilisant la similar
 
 Exécuter l'application :
 streamlit run app.py
+
+![app](https://github.com/assielking/recommender_system/assets/145512245/b9c36c6b-7965-4939-8954-ff735c4e9a3c)
