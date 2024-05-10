@@ -1,4 +1,4 @@
-pip install streamlit
-pip install python
-pip install pandas
-pip install pickle
+streamlit
+python
+pandas
+pickle
